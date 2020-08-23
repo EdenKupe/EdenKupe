@@ -5,7 +5,7 @@
 
 **[AnarchySF](https://www.anarchysf.com/)** - an online, open-source repository of anarchist science fiction. Built using Jekyll, currently being upgraded to Eleventy.
 
-**[Not The Sky]**(http://notthesky.com/)** - my blog containing my talks, essays, poetry, prose, and more. Built using Eleventy and TailwindCSS.
+**[Not The Sky](https://notthesky.com/)** - my blog containing my talks, essays, poetry, prose, and more. Built using Eleventy and TailwindCSS.
 
 **[EverythingOK](https://everythingok.io/)** - a microsite that tells you that everything is going to be OK. Built using HTML and VanillaJS.
 
