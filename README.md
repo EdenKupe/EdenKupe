@@ -1,4 +1,4 @@
-## Hey 👋, This is Eden Kupermintz
+## Hey 👋, this is Eden Kupermintz
 [![Gmail Badge](https://img.shields.io/badge/-ldvster@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ldvster@gmail.com)](mailto:ldvster@gmail.com) [![Github Badge](https://img.shields.io/badge/-EdenKupe-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EdenKupe/)](https://www.github.com/EdenKupe/) [![Twitter Badge](https://img.shields.io/badge/-@tallesteden-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@tallesteden/)](https://www.twitter.com/@tallesteden/) <p align='left'>Technical writer, product manager, and web developer. Passionate about SSG and the simple, fast sites that they can create. In my "free" time, I'm also a music journalist and science fiction researcher/writer.</p>
 
 ## Some of my sites
